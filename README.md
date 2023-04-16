@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/_kafkaesc)](https://twitter.com/_kafkaesc)
 
 
-I'm a software engineer in Houston, TX.
+I'm a software engineer in Houston, TX. I'm a versatile developer with experience working on front-end, back-end, and native mobile projects. When I'm away from my computer I enjoy cycling, yoga, and learning new recipes.
 
 ### Recent Projects
 
