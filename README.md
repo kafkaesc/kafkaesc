@@ -8,8 +8,9 @@ I'm a software engineer in Houston, TX. I'm a versatile developer with experienc
 
 ### Recent Projects
 
-* ***[Lenguau](https://kafkaesc.github.io/Lenguau/)*** 🧿 Leng-wow! I built this project to help myself and a few friends practice English-Spanish vocabulary. Pick a game and a category and go off! The entire site and its README files are all bilingual. 
+* ***[Lenguau](https://kafkaesc.github.io/Lenguau/)*** 🧿 Leng-wow! I built this project to help myself and a few friends practice English-Spanish vocabulary. Pick a game and a category and go off! The entire site and its README files are all bilingual.
 * ***[Call-Me-Ishmael](https://kafkaesc.github.io/Call-Me-Ishmael/)*** 🐋 The hyphens are part of the name. This project has a chat window where you can send a text ("Call me, Ishmael") using HTML elements with various Angular event handlers. Learn how different HTML elements will behave, and how to avoid unexpected behavior for keyboard-focused or keyboard-dependent users.
+* ***[Cat Summoner](https://kafkaesc.github.io/Cat-Summoner/)*** 🐱 Make new friends. Cat Summoner is a simple site where you can summon different cats and save their photos to your Catbook.
 
 ### Start a conversation
 
