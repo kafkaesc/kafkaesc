@@ -14,6 +14,6 @@ I'm a software engineer in Houston, TX. I'm a versatile developer with experienc
 
 ### Start a conversation
 
-* ***Talk about a project*** • Do you have an idea for a project you want to rubber duck with someone? Are you interested in how I implemented one of my projects? Lets talk about it.
+* ***Talk about a project*** • Do you have an idea for a project you want to rubber duck with someone? Are you interested in how I implemented one of my projects? Let's talk about it.
 * ***Tell me about your favorite writer*** • I didn't just study computer science in college, I studied English too! Tell me about your favorite writer, book, or short story. I'd love to hear.
 * ***Send me a pun*** • They are always funny, and mine are always intentional.
