@@ -1,6 +1,6 @@
 ## Howdy 👋 I'm Jared Hettinger
 
-I'm a software engineer in Houston, TX. I'm a versatile developer with experience working on front-end, back-end, and native mobile projects. When I'm away from my computer I enjoy cycling, yoga, and learning new recipes.
+I'm a software engineer in Houston, TX. I'm a versatile developer with experience working on front-end, back-end, and native mobile projects. When I'm away from my computer I enjoy cycling, running, and learning new recipes.
 
 ### Portfolio
 
