@@ -14,6 +14,6 @@ I'm a software engineer in Houston, TX. I'm a versatile developer with experienc
 * ***Tell me about your favorite writer*** • I didn't just study computer science in college, I studied English too! Tell me about your favorite writer, book, or short story. I'd love to hear.
 * ***Send me a pun*** • They are always funny, and mine are always intentional.
 
-## Find Me Around the Net
+### Find Me Around the Net
 
 ***[LinkedIn](https://www.linkedin.com/in/jahettinger)*** – ***[X/Twitter](https://twitter.com/_kafkaesc)*** – ***[Instagram](https://www.instagram.com/kafkaesc)***
