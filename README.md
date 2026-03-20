@@ -4,8 +4,8 @@ I'm a software engineer in Houston, TX. I'm a versatile developer with experienc
 
 ### Portfolio
 
-* ***[¡Lenguau!](https://lenguau.com/)*** 🧿 Leng-wow! I built this project to help myself and a few friends practice English-Spanish vocabulary. Pick a game and a category and take off! The entire site and its README files are bilingual.
-* ***[Call-Me-Ishmael](https://call-me-ishmael.xyz)*** 🐋 The hyphens are part of the name. This project has a chat window where you can send a text ("Call me, Ishmael") using HTML elements with various Angular event handlers. Learn how different HTML elements will behave, and how to avoid unexpected behavior for keyboard-focused or keyboard-dependent users.
+* ***[¡Lenguau!](https://lenguau.com/)*** 🧿 Leng-wow! Practice English-Spanish vocabulary with multiple games. The site is fully localized so that every page can toggle between English and Spanish. Data loads from the RESTful [Lenguau-API](https://github.com/kafkaesc/Lenguau-API).
+* ***[Call-Me-Ishmael](https://call-me-ishmael.xyz)*** 🐋 Send the message "Call me, Ishmael" using a variety of HTML elements, connected with different Angular event handlers, and see how their behavior differs—especially for keyboard-focused or keyboard-dependent users.
 * ***[Cat Summoner](https://cat-summoner.com/)*** 🐱 Make new friends. Cat Summoner is a simple site where you can summon different cats and save their photos to your Catbook.
 
 ### Start a conversation
