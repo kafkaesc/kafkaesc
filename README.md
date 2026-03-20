@@ -4,7 +4,7 @@ I'm a software engineer in Houston, TX. I'm a versatile developer with experienc
 
 ### Portfolio
 
-* ***[¡Lenguau!](https://lenguau.com/)*** 🧿 Leng-wow! Practice English-Spanish vocabulary with multiple games. The site is fully localized so that every page can toggle between English and Spanish. Data loads from the RESTful ***[Lenguau-API](https://github.com/kafkaesc/Lenguau-API)***.
+* ***[¡Lenguau!](https://lenguau.com/)*** 🧿 Leng-wow! Practice English-Spanish vocabulary with multiple games. The site is fully localized so that every page can toggle between English and Spanish. Data loads from the RESTful *[Lenguau-API](https://github.com/kafkaesc/Lenguau-API)*.
 * ***[Call-Me-Ishmael](https://call-me-ishmael.xyz)*** 🐋 Send the message "Call me, Ishmael" using a variety of HTML elements, connected with different Angular event handlers, and see how their behavior differs—especially for keyboard-focused or keyboard-dependent users.
 * ***[Cat Summoner](https://cat-summoner.com/)*** 🐱 Make new friends. Call a cat by name, wait a few seconds, and see a photo of them appear. Collect new photos in your Catbook, stored locally in your browser.
 
